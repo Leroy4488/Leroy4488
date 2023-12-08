@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi There 👋
 
+
+## ⭐ About Me
+
+# 🎓 Education
+Completed:
+-Allround Lab Technician at Rijn IJssel
+
+Ongoing:
+-CS50x at Harvard University
 <!--
 **Leroy4488/Leroy4488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
