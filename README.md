@@ -2,6 +2,8 @@
 
 
 ## ⭐ About Me
+Hey there, I'm Leroy!
+I'm a passionate programmer, based in the Netherlands. My passion for programming started in 2023, shortly after getting my degree as a lab technician. Ever since then a large part of free time has been spend learning the ins and outs of programming.
 
 # 🎓 Education
 Completed:
