@@ -7,7 +7,9 @@ I'm a passionate programmer, from the Netherlands. My passion for programming st
 
 ### 🎓 Education
 Completed:
--Allround Lab Technician at Rijn IJssel
+-Allround Lab Technician at Rijn IJssel  
+
+### 📜 Certifications  
 -CS50x: Introduction to the intellectual enterprises of computer science and the art of programming
 <!--
 **Leroy4488/Leroy4488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
