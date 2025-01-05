@@ -3,14 +3,12 @@
 
 ## ⭐ About Me
 Hey there, I'm Leroy!
-I'm a passionate programmer, based in the Netherlands. My passion for programming started in 2023, shortly after getting my degree as a lab technician. Ever since then a large part of free time has been spend learning the ins and outs of programming.
+I'm a passionate programmer, from the Netherlands. My passion for programming started in 2023, shortly after getting my degree as a lab technician. Ever since then a large part of free time has been spend learning the ins and outs of programming.
 
 ### 🎓 Education
 Completed:
 -Allround Lab Technician at Rijn IJssel
-
-Ongoing:
--CS50x at Harvard University
+-CS50x: Introduction to the intellectual enterprises of computer science and the art of programming
 <!--
 **Leroy4488/Leroy4488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
